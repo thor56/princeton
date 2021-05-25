@@ -20,6 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24966b13-ba98-4006-873f-8ae9133d9106" name="Default Changelist" comment="getting it all together">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/princeton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/princeton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list.csv" beforeDir="false" afterPath="$PROJECT_DIR$/list.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +75,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -117,21 +122,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="getting it all together" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="991" height="273" key="GridCell.Tab.0.bottom" timestamp="1621889052314">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1621905565804">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621905565804" />
     <state width="991" height="273" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1621889052314" />
-    <state width="991" height="273" key="GridCell.Tab.0.center" timestamp="1621889052314">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1621905565804">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621905565804" />
     <state width="991" height="273" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1621889052314" />
-    <state width="991" height="273" key="GridCell.Tab.0.left" timestamp="1621889052314">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1621905565804">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621905565804" />
     <state width="991" height="273" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1621889052314" />
-    <state width="991" height="273" key="GridCell.Tab.0.right" timestamp="1621889052314">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1621905565804">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621905565804" />
     <state width="991" height="273" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1621889052314" />
     <state width="991" height="346" key="GridCell.Tab.1.bottom" timestamp="1621882367490">
       <screen x="0" y="0" width="2560" height="1040" />
@@ -149,9 +158,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="991" height="346" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1621882367490" />
-    <state x="1421" y="164" key="SettingsEditor" timestamp="1621706611928">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="368" y="18" key="SettingsEditor" timestamp="1621903847336">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="368" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621903847336" />
     <state x="1421" y="164" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1621706611928" />
     <state x="1512" y="252" key="Vcs.Push.Dialog.v2" timestamp="1621710021788">
       <screen x="0" y="0" width="2560" height="1040" />

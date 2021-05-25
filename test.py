@@ -1,9 +1,10 @@
 import time
-import autoit
+# import autoit
 import pyautogui
 import pandas as pd
 from bs4 import BeautifulSoup as soup
 import lxml
+import csv
 
 
 
@@ -17,7 +18,7 @@ from selenium.webdriver.chrome.options import Options
 chrome_options = Options()
 chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 chrome_options.add_argument("--auto-open-devtools-for-tabs")
-chrome_driver = r"E:\PROJECTS\princeton\chromedriver"
+chrome_driver = r"D:\PROJECT\princeton\chromedriver"
 browser = webdriver.Chrome(chrome_driver, options=chrome_options)
 
 # Click on Syllabus Tab and select ClassOne
@@ -38,14 +39,21 @@ lis = []
 # for table in tables:
 #      if table.findParent("table") is None:
 lis.append(tables)
-for item in tables:
-    text = item.text
-    print(text)
+# for item in tables:
+#     text = item.text
+#     print(text)
 
 
 
 lis_df = pd.DataFrame(lis)
 lis_df.to_csv('list.csv')
+
+with open('list2.csv', newline='') as f:
+    reader = csv.reader(f)
+    data = list(reader)
+
+for x in data:
+    print(x[0])
 
 
 
