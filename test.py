@@ -1,6 +1,11 @@
 import time
 import autoit
 import pyautogui
+import pandas as pd
+from bs4 import BeautifulSoup as soup
+import lxml
+
+
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -15,12 +20,51 @@ chrome_options.add_argument("--auto-open-devtools-for-tabs")
 chrome_driver = r"E:\PROJECTS\princeton\chromedriver"
 browser = webdriver.Chrome(chrome_driver, options=chrome_options)
 
-
 # Click on Syllabus Tab and select ClassOne
 # Fetch all Folders within the class
 # Iterate through Folders as Class structure
 # ---- Further Iterate
 browser.find_element_by_link_text('Syllabus').click()
+classes = pd.read_csv("undersyllabus.csv")
+browser.find_element_by_link_text('Class Four').click()
+time.sleep(2)
+browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
+time.sleep(4)
+html=browser.page_source
+soups=soup(html,'html.parser')
+tables = soups.findAll('a')
+lis = []
+
+# for table in tables:
+#      if table.findParent("table") is None:
+lis.append(tables)
+for item in tables:
+    text = item.text
+    print(text)
+
+
+
+lis_df = pd.DataFrame(lis)
+lis_df.to_csv('list.csv')
+
+
+
+# tb = browser.find_elements_by_tag_name('td')
+# html=browser.page_source
+# soups=soup(html,'html.parser')
+# div=soups.select_one("div#collapseSpecs")
+# table=pd.read_html(str(div))
+# print(table[0])
+# print(table[1])
+
+
+# df = pd.DataFrame(table)
+
+# lis_df = pd.DataFrame(tb)
+# lis_df.to_csv('list.csv')
+# for item in tb:
+#     text = item.text
+#     print(text)
 
 
 #        Fetch all Video file name from the lesson names
