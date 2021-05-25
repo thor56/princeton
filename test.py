@@ -1,3 +1,4 @@
+import re
 import time
 # import autoit
 import pyautogui
@@ -15,45 +16,51 @@ from selenium.webdriver.chrome.options import Options
 # chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenum\automation"
 
 # Using an existing Chrome session
-chrome_options = Options()
-chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
-chrome_options.add_argument("--auto-open-devtools-for-tabs")
-chrome_driver = r"D:\PROJECT\princeton\chromedriver"
-browser = webdriver.Chrome(chrome_driver, options=chrome_options)
+# chrome_options = Options()
+# chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+# chrome_options.add_argument("--auto-open-devtools-for-tabs")
+# chrome_driver = r"E:\PROJECTS\princeton\chromedriver"
+# browser = webdriver.Chrome(chrome_driver, options=chrome_options)
+#
+# # Click on Syllabus Tab and select ClassOne
+# # Fetch all Folders within the class
+# # Iterate through Folders as Class structure
+# # ---- Further Iterate
+# browser.find_element_by_link_text('Syllabus').click()
+# classes = pd.read_csv("undersyllabus.csv")
+# browser.find_element_by_link_text('Class Four').click()
+# time.sleep(2)
+# browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
+# time.sleep(4)
+# html=browser.page_source
+# soups=soup(html,'html.parser')
+# tables = soups.findAll('a')
+# lis = []
+#
+# # for table in tables:
+# #      if table.findParent("table") is None:
+# lis.append(tables)
+# # for item in tables:
+# #     text = item.text
+# #     print(text)
+#
+#
+#
+# lis_df = pd.DataFrame(lis)
+# lis_df.to_csv('list.csv')
 
-# Click on Syllabus Tab and select ClassOne
-# Fetch all Folders within the class
-# Iterate through Folders as Class structure
-# ---- Further Iterate
-browser.find_element_by_link_text('Syllabus').click()
-classes = pd.read_csv("undersyllabus.csv")
-browser.find_element_by_link_text('Class Four').click()
-time.sleep(2)
-browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
-time.sleep(4)
-html=browser.page_source
-soups=soup(html,'html.parser')
-tables = soups.findAll('a')
-lis = []
-
-# for table in tables:
-#      if table.findParent("table") is None:
-lis.append(tables)
-# for item in tables:
-#     text = item.text
-#     print(text)
-
-
-
-lis_df = pd.DataFrame(lis)
-lis_df.to_csv('list.csv')
-
-with open('list2.csv', newline='') as f:
+with open('list.csv', newline='') as f:
     reader = csv.reader(f)
     data = list(reader)
 
 for x in data:
-    print(x[0])
+    if 'ga-video' in str(x) or 'articulate' in str(x):
+        tag = "a"
+        reg_str = ">(.*?)</" + tag + ">"
+        res = re.findall(reg_str, str(x))
+        name = str(res[0]).replace("\\n\\t\\t\\t\\t", "")
+        print(name[:-8])
+
 
 
 
