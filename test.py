@@ -6,6 +6,7 @@ import pandas as pd
 from bs4 import BeautifulSoup as soup
 import lxml
 import csv
+import numpy as np
 
 
 
@@ -14,63 +15,56 @@ from selenium.webdriver.chrome.options import Options
 
 
 # chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenum\automation"
-
 # Using an existing Chrome session
-# chrome_options = Options()
-# chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
-# chrome_options.add_argument("--auto-open-devtools-for-tabs")
-# chrome_driver = r"E:\PROJECTS\princeton\chromedriver"
-# browser = webdriver.Chrome(chrome_driver, options=chrome_options)
-#
-# # Click on Syllabus Tab and select ClassOne
-# # Fetch all Folders within the class
-# # Iterate through Folders as Class structure
-# # ---- Further Iterate
-# browser.find_element_by_link_text('Syllabus').click()
-# classes = pd.read_csv("undersyllabus.csv")
-# browser.find_element_by_link_text('Class Four').click()
-# time.sleep(2)
-# browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
-# time.sleep(4)
-# html=browser.page_source
-# soups=soup(html,'html.parser')
-# tables = soups.findAll('a')
-# lis = []
-#
-# # for table in tables:
-# #      if table.findParent("table") is None:
-# lis.append(tables)
-# # for item in tables:
-# #     text = item.text
-# #     print(text)
-#
-#
-#
-# lis_df = pd.DataFrame(lis)
-# lis_df.to_csv('list.csv')
+chrome_options = Options()
+chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+chrome_options.add_argument("--auto-open-devtools-for-tabs")
+chrome_driver = r"D:\PROJECT\princeton\chromedriver"
+browser = webdriver.Chrome(chrome_driver, options=chrome_options)
 
-with open('list.csv', newline='') as f:
-    reader = csv.reader(f)
-    data = list(reader)
 
-for x in data:
-    if 'ga-video' in str(x) or 'articulate' in str(x):
+# Click on Syllabus Tab and select ClassOne
+# Fetch all Folders within the class
+# Iterate through Folders as Class structure
+# ---- Further Iterate
+browser.find_element_by_link_text('Syllabus').click()
+classes = ['Strategies', 'Class One', 'Class Two', 'Class Three', 'Class Four', 'Class Five', 'Class Six', 'Class Seven']
+
+browser.find_element_by_link_text('Class Five').click()
+time.sleep(2)
+browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
+time.sleep(4)
+html=browser.page_source
+soups=soup(html,'html.parser')
+tables = soups.findAll('a')
+lis = []
+for x in tables:
+    lis.append(str(x))
+lis_df = pd.DataFrame(lis)
+lis_df.to_csv('list.csv')
+
+lis = []
+data = pd.read_csv('list.csv')
+lis = data.values.tolist()
+
+temp_lis = []
+for x in lis:
+
+    if 'ga-video' in str(x) or 'ga-articulate' in str(x):
         tag = "a"
         reg_str = ">(.*?)</" + tag + ">"
         res = re.findall(reg_str, str(x))
-        name = str(res[0]).replace("\\n\\t\\t\\t\\t", "")
-        print(name[:-8])
+        print(str(res[0])[10:-8])
+        temp_lis.append(str(res[0])[10:-8])
+temp_df = pd.DataFrame(temp_lis)
+temp_df.to_csv('Class Five.csv')
 
 
 
 
-# tb = browser.find_elements_by_tag_name('td')
-# html=browser.page_source
-# soups=soup(html,'html.parser')
-# div=soups.select_one("div#collapseSpecs")
-# table=pd.read_html(str(div))
-# print(table[0])
-# print(table[1])
+
+
+
 
 
 # df = pd.DataFrame(table)
@@ -82,11 +76,6 @@ for x in data:
 #     print(text)
 
 
-#        Fetch all Video file name from the lesson names
-#        Iterate through the folders as the Lessons
-#        ---- Further Iterate -----
-#               Open each video link and save the video(2 step process)
-#
 
 # # Entered Video Page, saving the file
 # time.sleep(5)
