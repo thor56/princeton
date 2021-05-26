@@ -19,7 +19,7 @@ from selenium.webdriver.chrome.options import Options
 chrome_options = Options()
 chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 chrome_options.add_argument("--auto-open-devtools-for-tabs")
-chrome_driver = r"D:\PROJECT\princeton\chromedriver"
+chrome_driver = r"E:\PROJECTS\princeton\chromedriver"
 browser = webdriver.Chrome(chrome_driver, options=chrome_options)
 
 
@@ -28,7 +28,7 @@ browser = webdriver.Chrome(chrome_driver, options=chrome_options)
 # Iterate through Folders as Class structure
 # ---- Further Iterate
 browser.find_element_by_link_text('Syllabus').click()
-classes = ['Class One', 'Class Two', 'Class Three', 'Class Four', 'Class Five', 'Class Six', 'Class Seven']
+classes = ['Class Two', 'Class Three', 'Class Four', 'Class Five', 'Class Six', 'Class Seven']
 
 for class_name in classes:
     browser.find_element_by_link_text(class_name).click()
