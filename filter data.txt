@@ -1,0 +1,12 @@
+6 - Patterns &amp; Sequences  				=== replace "&amp;" with "and"
+1 - Park Your Thinking / Don\'t Skip Steps  ===  replace "/" and "\" with ""
+7 - The xy-plane							=== replace "-" with "_"
+	Arguments: ID &amp; Resolve Explain		=== replace ": &amp" with ""
+3 - Reading for the Main Idea (Long)		=== replace ")(" with ""
+	What is an Average?						=== replace "?" with ""
+2 - Exponents: MADSPM						=== replace ":" with ""
+
+
+
+
+https://cdn.princetonreview.com/InstructionalContent/GRE/video/sd/Patterns_and_Sequences.sml.mp4

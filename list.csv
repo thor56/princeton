@@ -39,14 +39,14 @@
 35,"<a aria-controls=""courseworkTabPanel"" class=""collapsed"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_CourseworkList?nodeId=440&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Subject-GRE-Essay"" role=""tab"">Essay</a>"
 36,"<a aria-controls=""courseworkTabPanel"" class=""collapsed"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_CourseworkList?nodeId=441&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Subject-Essay-Issue"" role=""tab"">Issue</a>"
 37,"<a aria-controls=""courseworkTabPanel"" class=""collapsed"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_CourseworkList?nodeId=442&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Subject-Essay-Argument"" role=""tab"">Argument</a>"
-38,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=451&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-GRE-Strategies"" role=""tab"">Strategies</a>"
+38,"<a aria-controls=""courseworkTabPanel"" class="""" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=451&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-GRE-Strategies"" role=""tab"">Strategies</a>"
 39,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=825&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-Strategies-Math"" role=""tab"">Math</a>"
 40,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=826&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-Strategies-Verbal"" role=""tab"">Verbal</a>"
 41,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=844&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-Strategies-Global"" role=""tab"">Global</a>"
 42,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=452&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-GRE-ClassOne"" role=""tab"">Class One</a>"
 43,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=827&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassOne-Math"" role=""tab"">Math</a>"
 44,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=828&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassOne-Verbal"" role=""tab"">Verbal</a>"
-45,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=453&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-GRE-ClassTwo"" role=""tab"">Class Two</a>"
+45,"<a aria-controls=""courseworkTabPanel"" class="""" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=453&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-GRE-ClassTwo"" role=""tab"">Class Two</a>"
 46,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=829&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassTwo-Math"" role=""tab"">Math</a>"
 47,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=830&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassTwo-Verbal"" role=""tab"">Verbal</a>"
 48,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=841&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassTwo-Essay"" role=""tab"">Essay</a>"
@@ -66,91 +66,109 @@
 62,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=458&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-GRE-ClassSeven"" role=""tab"">Class Seven</a>"
 63,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=839&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassSeven-Math"" role=""tab"">Math</a>"
 64,"<a aria-controls=""courseworkTabPanel"" data-parent=""#side-nav"" data-toggle=""collapse"" data-url=""/coursework/_SyllabusList?nodeId=840&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" href=""#Syllabus-ClassSeven-Verbal"" role=""tab"">Verbal</a>"
-65,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/8d9895cc-a4f2-42f8-ace4-31077db2196f?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4473"" data-size=""articulate"" data-title=""Overlapping Ranges"" href=""javascript:void(0)"" tabindex=""0"">
-				Overlapping Ranges
+65,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/c8187b73-01eb-4dc3-902b-cd822107f16a?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4440"" data-size=""video"" data-title=""The xy-plane"" href=""javascript:void(0)"" tabindex=""0"">
+				The xy-plane
 			</a>"
-66,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2374&amp;drillGroupName=Overlapping%20Ranges&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
-							Overlapping Ranges Drills
+66,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/ff5fc03d-ab22-4d44-ad9a-db1a2852652a?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4433"" data-size=""video"" data-title=""Triangles and Triangle Formulas"" href=""javascript:void(0)"" tabindex=""0"">
+				Triangles and Triangle Formulas
+			</a>"
+67,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/3505ad87-f787-4d90-86b1-0d3d629ee6ad?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4419"" data-size=""video"" data-title=""Geometry Basic Approach"" href=""javascript:void(0)"" tabindex=""0"">
+				Geometry Basic Approach
+			</a>"
+68,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/c1a9a5f8-f683-4fb1-904a-e128ce67dfd3?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4441"" data-size=""articulate"" data-title=""Coordinate Geometry"" href=""javascript:void(0)"" tabindex=""0"">
+				Coordinate Geometry
+			</a>"
+69,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2356&amp;drillGroupName=Coordinate%20Geometry&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Coordinate Geometry Drills
 						</a>"
-67,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/2942e6fe-466b-4be4-a353-1194302e7e2e?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4497"" data-size=""video"" data-title=""Essay: The Word Processor"" href=""javascript:void(0)"" tabindex=""0"">
-				Essay: The Word Processor
+70,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/c02e4bb2-190b-4551-b6f9-93af8902673f?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4404"" data-size=""video"" data-title=""What are Factors and Multiples?"" href=""javascript:void(0)"" tabindex=""0"">
+				What are Factors and Multiples?
 			</a>"
-68,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/fd5244e7-3384-4c1d-ba6a-95b2009a3835?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4498"" data-size=""articulate"" data-title=""Essay: Issue Essay"" href=""javascript:void(0)"" tabindex=""0"">
-				Essay: Issue Essay
+71,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/e1d249d9-eabf-4497-b11b-94ed827d272e?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4405"" data-size=""video"" data-title=""What is a Remainder?"" href=""javascript:void(0)"" tabindex=""0"">
+				What is a Remainder?
 			</a>"
-69,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/86c150a3-4709-44ab-ae98-b49614d7f957?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4475"" data-size=""video"" data-title=""All That Apply Questions (Verbal)"" href=""javascript:void(0)"" tabindex=""0"">
-				All That Apply Questions (Verbal)
+72,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/ec5ec9b4-525e-4540-8fc6-3469e1f3a31f?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4406"" data-size=""video"" data-title=""What are Prime Numbers?"" href=""javascript:void(0)"" tabindex=""0"">
+				What are Prime Numbers?
 			</a>"
-70,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/8f0f8353-dec3-4b56-8d39-f3185991dabb?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4476"" data-size=""video"" data-title=""Studying Vocabulary"" href=""javascript:void(0)"" tabindex=""0"">
-				Studying Vocabulary
+73,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/ec206ae5-b8fe-4c56-a2e1-d9a885046dd3?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4407"" data-size=""video"" data-title=""Finding Prime Factors"" href=""javascript:void(0)"" tabindex=""0"">
+				Finding Prime Factors
 			</a>"
-71,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/392a3d1c-51c0-41bb-b524-fc7dc0a3d33b?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4489"" data-size=""articulate"" data-title=""Sentence Equivalence: Advanced Clues"" href=""javascript:void(0)"" tabindex=""0"">
-				Sentence Equivalence: Advanced Clues
+74,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/3b4d4bd6-fde0-493a-b98b-d216eb63a14b?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4384"" data-size=""video"" data-title=""Read the Full Question"" href=""javascript:void(0)"" tabindex=""0"">
+				Read the Full Question
 			</a>"
-72,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/86c150a3-4709-44ab-ae98-b49614d7f957?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4475"" data-size=""video"" data-title=""All That Apply Questions (Verbal)"" href=""javascript:void(0)"" tabindex=""0"">
-				All That Apply Questions (Verbal)
+75,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/4f055db2-ef06-4178-84fb-67659e05f9f8?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4408"" data-size=""articulate"" data-title=""Number Theory"" href=""javascript:void(0)"" tabindex=""0"">
+				Number Theory
 			</a>"
-73,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/8f0f8353-dec3-4b56-8d39-f3185991dabb?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4476"" data-size=""video"" data-title=""Studying Vocabulary"" href=""javascript:void(0)"" tabindex=""0"">
-				Studying Vocabulary
+76,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/26e968aa-2e71-43f5-8421-d72afe2d5d91?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4479"" data-size=""video"" data-title=""Arguments Basic Approach"" href=""javascript:void(0)"" tabindex=""0"">
+				Arguments Basic Approach
 			</a>"
-74,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/9b81f996-900a-44fa-bf5a-9e1f61b80f81?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4490"" data-size=""articulate"" data-title=""Text Completion: Multiple Blanks"" href=""javascript:void(0)"" tabindex=""0"">
-				Text Completion: Multiple Blanks
+77,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/b45dfa78-2be5-41c7-8524-cb31097ed45f?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4496"" data-size=""articulate"" data-title=""Arguments: ID &amp; Resolve Explain"" href=""javascript:void(0)"" tabindex=""0"">
+				Arguments: ID &amp; Resolve Explain
 			</a>"
-75,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/86c150a3-4709-44ab-ae98-b49614d7f957?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4475"" data-size=""video"" data-title=""All That Apply Questions (Verbal)"" href=""javascript:void(0)"" tabindex=""0"">
-				All That Apply Questions (Verbal)
+78,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/763daa76-0f18-47ff-b1d4-0ca35c640ee4?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4442"" data-size=""video"" data-title=""Slope and Line Equation"" href=""javascript:void(0)"" tabindex=""0"">
+				Slope and Line Equation
 			</a>"
-76,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/8f0f8353-dec3-4b56-8d39-f3185991dabb?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4476"" data-size=""video"" data-title=""Studying Vocabulary"" href=""javascript:void(0)"" tabindex=""0"">
-				Studying Vocabulary
+79,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/3505ad87-f787-4d90-86b1-0d3d629ee6ad?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4419"" data-size=""video"" data-title=""Geometry Basic Approach"" href=""javascript:void(0)"" tabindex=""0"">
+				Geometry Basic Approach
 			</a>"
-77,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/47ffa76b-cf4f-4220-9996-301eb67ccda0?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4495"" data-size=""articulate"" data-title=""Text Completion: Advanced Clues"" href=""javascript:void(0)"" tabindex=""0"">
-				Text Completion: Advanced Clues
+80,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/eac1a542-3931-49e0-845e-ed49a54fd4dc?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4443"" data-size=""articulate"" data-title=""Slope"" href=""javascript:void(0)"" tabindex=""0"">
+				Slope
 			</a>"
-78,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/14006e3e-96f1-4993-92fa-e45e80f08e05?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4409"" data-size=""video"" data-title=""Percent Translation"" href=""javascript:void(0)"" tabindex=""0"">
-				Percent Translation
+81,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/763daa76-0f18-47ff-b1d4-0ca35c640ee4?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4442"" data-size=""video"" data-title=""Slope and Line Equation"" href=""javascript:void(0)"" tabindex=""0"">
+				Slope and Line Equation
 			</a>"
-79,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/569e6759-d165-4e30-ad51-718d5b7a7fa8?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4438"" data-size=""video"" data-title=""Ballparking"" href=""javascript:void(0)"" tabindex=""0"">
-				Ballparking
+82,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/3505ad87-f787-4d90-86b1-0d3d629ee6ad?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4419"" data-size=""video"" data-title=""Geometry Basic Approach"" href=""javascript:void(0)"" tabindex=""0"">
+				Geometry Basic Approach
 			</a>"
-80,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/711b9db9-42bc-4a31-89f7-0913cbf2db24?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4395"" data-size=""video"" data-title=""All That Apply Questions (Math)"" href=""javascript:void(0)"" tabindex=""0"">
-				All That Apply Questions (Math)
+83,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/4dbc53ea-fbd6-48c0-8c0a-aab18ad466ca?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4444"" data-size=""articulate"" data-title=""Equation of a Line"" href=""javascript:void(0)"" tabindex=""0"">
+				Equation of a Line
 			</a>"
-81,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/daaf35a5-77c9-42a2-bcdf-bb4bedb53d6f?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4393"" data-size=""video"" data-title=""Using the GRE Calculator"" href=""javascript:void(0)"" tabindex=""0"">
-				Using the GRE Calculator
+84,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/00a48e05-73d7-40c6-9695-334c308419a1?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4447"" data-size=""video"" data-title=""Counting Methods Basics"" href=""javascript:void(0)"" tabindex=""0"">
+				Counting Methods Basics
 			</a>"
-82,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/25b42005-9349-49fe-8c84-58c5f4511d06?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4439"" data-size=""articulate"" data-title=""Charts"" href=""javascript:void(0)"" tabindex=""0"">
-				Charts
+85,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/08076bf0-5b66-43fd-aea5-4998ed64faff?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4448"" data-size=""video"" data-title=""What is a Factorial?"" href=""javascript:void(0)"" tabindex=""0"">
+				What is a Factorial?
 			</a>"
-83,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/a2f2164b-e67f-44eb-bdd1-83dd8d779cf3?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4466"" data-size=""video"" data-title=""What is Standard Deviation?"" href=""javascript:void(0)"" tabindex=""0"">
-				What is Standard Deviation?
+86,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/564746f7-f499-4c4e-a31c-66fc34bdec0d?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4380"" data-size=""video"" data-title=""Park Your Thinking / Don't Skip Steps"" href=""javascript:void(0)"" tabindex=""0"">
+				Park Your Thinking / Don't Skip Steps
 			</a>"
-84,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/80acc489-3168-4c5a-9e68-493e7d4494c4?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4413"" data-size=""video"" data-title=""What is an Average?"" href=""javascript:void(0)"" tabindex=""0"">
-				What is an Average?
-			</a>"
-85,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/e1db2f15-baec-4c29-9c3a-bb20ef079caf?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4467"" data-size=""video"" data-title=""What is a Set?"" href=""javascript:void(0)"" tabindex=""0"">
-				What is a Set?
-			</a>"
-86,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/fb3389f7-4d77-4cc6-b439-366428706054?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4417"" data-size=""video"" data-title=""Don't Panic"" href=""javascript:void(0)"" tabindex=""0"">
+87,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/fb3389f7-4d77-4cc6-b439-366428706054?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4417"" data-size=""video"" data-title=""Don't Panic"" href=""javascript:void(0)"" tabindex=""0"">
 				Don't Panic
 			</a>"
-87,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/707910ad-6a27-4f1a-b2f3-a97db90ee477?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4468"" data-size=""articulate"" data-title=""Standard Deviation"" href=""javascript:void(0)"" tabindex=""0"">
-				Standard Deviation
+88,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/fa51dd7d-98a9-4d03-b9e7-a6f354f28a10?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4449"" data-size=""articulate"" data-title=""Arrangements &amp; Combinations"" href=""javascript:void(0)"" tabindex=""0"">
+				Arrangements &amp; Combinations
 			</a>"
-88,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2383&amp;drillGroupName=Sentence%20Equivalence%3A%20Advanced%20Clues&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
-							Sentence Equivalence: Advanced Clues Drills
+89,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/ff5fc03d-ab22-4d44-ad9a-db1a2852652a?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4433"" data-size=""video"" data-title=""Triangles and Triangle Formulas"" href=""javascript:void(0)"" tabindex=""0"">
+				Triangles and Triangle Formulas
+			</a>"
+90,"<a class=""ga-video"" data-content-type=""Video"" data-content-url=""/ContentStateless/_LaunchContentObject/3505ad87-f787-4d90-86b1-0d3d629ee6ad?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4419"" data-size=""video"" data-title=""Geometry Basic Approach"" href=""javascript:void(0)"" tabindex=""0"">
+				Geometry Basic Approach
+			</a>"
+91,"<a class=""ga-articulate"" data-content-type=""Articulate"" data-content-url=""/ContentStateless/_LaunchContentObject/3f1ef795-ba09-491b-b695-30527518296c?location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-contentobject-id=""4472"" data-size=""articulate"" data-title=""Equation of a Circle"" href=""javascript:void(0)"" tabindex=""0"">
+				Equation of a Circle
+			</a>"
+92,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2340&amp;drillGroupName=Number%20Theory&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Number Theory Drills
 						</a>"
-89,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2384&amp;drillGroupName=Text%20Completion%3A%20Multiple%20Blanks&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
-							Text Completion: Multiple Blanks Drills
+93,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2389&amp;drillGroupName=ID%20%26%20Resolve%20Explain&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							ID &amp; Resolve Explain Drills
 						</a>"
-90,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2388&amp;drillGroupName=Text%20Completion%3A%20Advanced%20Clues&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
-							Text Completion: Advanced Clues Drills
+94,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2356&amp;drillGroupName=Coordinate%20Geometry&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Coordinate Geometry Drills
 						</a>"
-91,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2355&amp;drillGroupName=Charts&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
-							Charts Drills
+95,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2357&amp;drillGroupName=Slope&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Slope Drills
 						</a>"
-92,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2370&amp;drillGroupName=Standard%20Deviation&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
-							Standard Deviation Drills
+96,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2358&amp;drillGroupName=Equation%20of%20a%20Line&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Equation of a Line Drills
 						</a>"
-93,"<a href=""https://www.princetonreview.com/help/contact-us-service"">Student Support</a>"
-94,"<a href=""https://www.princetonreview.com/help/online-help"">FAQ</a>"
-95,"<a href=""https://www.princetonreview.com/privacy"" target=""_blank"">Privacy Policy</a>"
-96,"<a href=""https://www.princetonreview.com/terms"" target=""_blank"">Terms of Use</a>"
+97,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2360&amp;drillGroupName=Arrangements%20%26%20Combinations&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Arrangements &amp; Combinations Drills
+						</a>"
+98,"<a class=""ga-DrillSmart"" data-content-type=""Drill"" data-content-url=""/ContentStateless/_DrillSmartRail?learningTrackId=2373&amp;drillGroupName=Equation%20of%20a%20Circle&amp;moveNext=False&amp;location=Coursework_Syllabus&amp;userGuid=20abac02-2ef6-4d93-91b9-e8f12f5d8ca9&amp;productCode=GRE-CRS-SEG&amp;productOfferingCode=454558"" data-enable-rail=""true"" data-size=""normal-wide"" href=""javascript:void(0)"" tabindex=""0"">
+							Equation of a Circle Drills
+						</a>"
+99,"<a href=""https://www.princetonreview.com/help/contact-us-service"">Student Support</a>"
+100,"<a href=""https://www.princetonreview.com/help/online-help"">FAQ</a>"
+101,"<a href=""https://www.princetonreview.com/privacy"" target=""_blank"">Privacy Policy</a>"
+102,"<a href=""https://www.princetonreview.com/terms"" target=""_blank"">Terms of Use</a>"

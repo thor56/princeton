@@ -28,36 +28,38 @@ browser = webdriver.Chrome(chrome_driver, options=chrome_options)
 # Iterate through Folders as Class structure
 # ---- Further Iterate
 browser.find_element_by_link_text('Syllabus').click()
-classes = ['Strategies', 'Class One', 'Class Two', 'Class Three', 'Class Four', 'Class Five', 'Class Six', 'Class Seven']
+classes = ['Class One', 'Class Two', 'Class Three', 'Class Four', 'Class Five', 'Class Six', 'Class Seven']
 
-browser.find_element_by_link_text('Class Five').click()
-time.sleep(2)
-browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
-time.sleep(4)
-html=browser.page_source
-soups=soup(html,'html.parser')
-tables = soups.findAll('a')
-lis = []
-for x in tables:
-    lis.append(str(x))
-lis_df = pd.DataFrame(lis)
-lis_df.to_csv('list.csv')
+for class_name in classes:
+    browser.find_element_by_link_text(class_name).click()
+    time.sleep(2)
+    browser.find_element_by_xpath('/html/body/div[4]/div[2]/div[2]/div[1]/div/div[1]/div/div[3]/div/button[1]').click()
+    time.sleep(4)
+    html=browser.page_source
+    soups=soup(html,'html.parser')
+    tables = soups.findAll('a')
+    lis = []
+    for x in tables:
+        lis.append(str(x))
+    lis_df = pd.DataFrame(lis)
+    lis_df.to_csv('list.csv')
 
-lis = []
-data = pd.read_csv('list.csv')
-lis = data.values.tolist()
+    lis = []
+    data = pd.read_csv('list.csv')
+    lis = data.values.tolist()
 
-temp_lis = []
-for x in lis:
+    temp_lis = []
+    for x in lis:
 
-    if 'ga-video' in str(x) or 'ga-articulate' in str(x):
-        tag = "a"
-        reg_str = ">(.*?)</" + tag + ">"
-        res = re.findall(reg_str, str(x))
-        print(str(res[0])[10:-8])
-        temp_lis.append(str(res[0])[10:-8])
-temp_df = pd.DataFrame(temp_lis)
-temp_df.to_csv('Class Five.csv')
+        if 'ga-video' in str(x) or 'ga-articulate' in str(x):
+            tag = "a"
+            reg_str = ">(.*?)</" + tag + ">"
+            res = re.findall(reg_str, str(x))
+            print(str(res[0])[10:-8])
+            temp_lis.append(str(res[0])[10:-8])
+    temp_df = pd.DataFrame(temp_lis)
+    file_name = str(class_name) + ".csv"
+    temp_df.to_csv(file_name)
 
 
 
